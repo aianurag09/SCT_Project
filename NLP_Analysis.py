@@ -1,6 +1,6 @@
 #from nlp_task import *
 #use direct exporting of  variables
-from Extraction_of_data_from_Linkedin_one_entry import *
+
 from Extraction_of_text_of_Wiki import *
 import nltk
 Words_file = open('Sentiment_analysis_Words.txt','r')
